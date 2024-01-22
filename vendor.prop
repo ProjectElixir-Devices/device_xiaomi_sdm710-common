@@ -239,7 +239,7 @@ ro.telephony.default_network=22,22
 telephony.lteOnCdmaDevice=1
 
 # RCS
-persist.rcs.supported=0
+persist.rcs.supported=1
 
 # Fingerprint
 ro.hardware.fp.fod=true
